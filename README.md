@@ -1,2 +1,4 @@
 # breakfile
 I always thought makefile / rakefile approach (pattern) would be useful inside app
+
+it isn't
